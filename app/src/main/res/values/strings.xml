@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CompositionAndroid</string>
+    <string name="enable_screenshot_usage">Enable Screenshot Usage</string>
+    <string name="disable_screenshot_usage">Disable Screenshot Usage</string>
 </resources>
